@@ -1,0 +1,2 @@
+# AdapterImpl
+Adapter Pattern
